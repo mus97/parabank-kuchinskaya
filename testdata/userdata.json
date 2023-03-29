@@ -1,0 +1,13 @@
+{
+  "firstName": "Sergei",
+  "lastName": "Dovlatov",
+  "address": "63rd Drive",
+  "city": "New York",
+  "state": "New York",
+  "zipCode": "10005",
+  "phoneNumber": "111333111",
+  "ssn": "111333111",
+  "username": "SergeiD",
+  "password": "dovlatov123",
+  "email": "dovlatov@gmail.com"
+}

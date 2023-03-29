@@ -1,0 +1,1 @@
+Successfully transferred $%s from account #%s to account #%s

@@ -1,0 +1,4 @@
+Name is required.
+Email is required.
+Phone is required.
+Message is required.

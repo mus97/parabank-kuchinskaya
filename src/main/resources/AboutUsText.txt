@@ -1,0 +1,1 @@
+ParaBank is a demo site used for demonstration of Parasoft software solutions.All materials herein are used solely for simulating a realistic online banking website.

@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+*.png
+*.md
+/.idea/
+/target/
+/build/cucumber-reports/cucumber.json
